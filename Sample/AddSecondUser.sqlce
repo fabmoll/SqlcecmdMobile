@@ -1,0 +1,8 @@
+SET IDENTITY_INSERT [Users] ON
+GO
+
+INSERT INTO [Users] VALUES('Test2', 'Test2', 'Test2', 2)
+GO
+
+SET IDENTITY_INSERT [Users] OFF
+GO
