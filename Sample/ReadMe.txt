@@ -1,4 +1,4 @@
-The folder contains a sample with a reference script (For more information: http://www.fabricemoll.com/post/SqlCmd-for-SQLCE-on-Windows-Mobile.aspx)
+The folder contains a sample with a reference script
 
 The shortcut to execute is "apply-update.lnk".
 
